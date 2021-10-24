@@ -1,0 +1,9 @@
+.resources__logo {
+    width: 270px;
+    height: 38px;
+    margin-right: 0;
+  }
+
+.resources__logo:last-child {
+    margin-right: auto;
+}
