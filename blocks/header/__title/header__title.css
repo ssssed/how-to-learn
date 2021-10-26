@@ -9,4 +9,5 @@
     font-size: 102px;
     width: 730px;
     font-family: 'Helvetica Heue', 'Arial', sans-self;
+    z-index: 2;
 }

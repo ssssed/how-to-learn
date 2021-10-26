@@ -8,7 +8,6 @@
 @import url(../blocks/digits/digits.css);
 /* feynman */
 @import url(../blocks/feynman/feynman.css);
-@import url(../blocks/feynman/__background/feynman__background.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
